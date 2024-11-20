@@ -1,4 +1,0 @@
-istanbul
-kocaeli
-ankara
-
